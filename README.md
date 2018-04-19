@@ -1,6 +1,6 @@
 # node-excel
 A demo for parsing excel using node.js
 
-npm i
+```npm i
 
-node excel.js
+node excel.js```
